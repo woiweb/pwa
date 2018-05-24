@@ -3,7 +3,7 @@
   "short_name": "Hi PWA",
   "description": "第一个pwa demo",
   "display": "standalone",
-  "start_url": "/",
+  "start_url": ".",
   "theme_color": "#313131",
   "background_color": "#313131",
   "icons": [
